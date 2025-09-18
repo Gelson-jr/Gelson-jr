@@ -1,4 +1,4 @@
-## Hi, i`am Gelson👋
+# Hi, I'm Gelson Junior 👋
 
 I'm a beginner developer learning programming and exploring new technologies.  
 I enjoy building small projects and improving my skills every day.
