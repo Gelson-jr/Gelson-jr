@@ -7,6 +7,7 @@ I enjoy building small projects and improving my skills every day.
 Java, JavaScript
 
 HTML, CSS
+
 Git & Github
 
 <!--
