@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, i`am Gelson👋
+
+I'm a beginner developer learning programming and exploring new technologies.  
+I enjoy building small projects and improving my skills every day.
+
+## skills
+Java, JavaScript
+HTML, CSS
+Git & Github
 
 <!--
 **Gelson-jr/Gelson-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
