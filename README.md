@@ -12,18 +12,6 @@ HTML, CSS
 
 Git & Github
 
-<style>
-    body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-    }
-    h1 {
-        font-size: 50px;
-    }
-</style>
 <body>
     <h1>MY MIDIA SOCIAL</h1>
 </body>
