@@ -11,6 +11,16 @@ Java, JavaScript
 HTML, CSS
 
 Git & Github
+<style>
+  h1 {
+    font-size: 50px;
+    margin: 100;
+  }
+</style>
+
+<body>
+<h1>MY SOCIAL MEDIA</h1>  
+</body>
 
 <p>If you want to get in touch with me, you can go to the links below </p>
 <div align="center">
