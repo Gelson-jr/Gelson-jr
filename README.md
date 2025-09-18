@@ -5,6 +5,7 @@ I enjoy building small projects and improving my skills every day.
 
 ## skills
 Java, JavaScript
+
 HTML, CSS
 Git & Github
 
