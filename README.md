@@ -13,7 +13,7 @@ HTML, CSS
 Git & Github
 
 <body>
-    <h1>MY MIDIA SOCIAL</h1>
+    <h1>MY MIDIA SOCIAL 📸</h1>
 </body>
 
 <p>If you want to get in touch with me, you can go to the links below </p>
