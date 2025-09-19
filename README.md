@@ -12,7 +12,7 @@ HTML, CSS
 
 Git & Github
 
-## My Midia Social 📸
+## My Social Midia 📸
 
 <p>If you want to get in touch with me, you can go to the links below </p>
 <div align="center">
