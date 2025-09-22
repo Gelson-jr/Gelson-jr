@@ -5,8 +5,8 @@ I enjoy building small projects and improving my skills every day.
 
 I am currently studying the second semester of systems analysis and development, always seeking to evolve and improve my skills as a programmer. 🚀
 
-## Skills
-Java, JavaScript
+## Skills in process
+Java, 
 
 HTML, CSS
 
