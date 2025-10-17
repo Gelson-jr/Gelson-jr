@@ -19,7 +19,7 @@ Git & Github
 <br>
   <a href="https://www.instagram.com/gelsonjuniorr_?igsh=dWI3OTU5cnRwcWxh&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-     <a href = "gelsonjuniorr07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+     <a href = "mailto:gelsonjuniorr07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
 <!--
